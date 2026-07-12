@@ -1,1 +1,3 @@
-Dataset : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?utm_source=chatgpt.com
+**Credit Card Fraud Detection Model** on the European Credit Card Fraud Dataset using baseline model (Logistic regression) , Random Forest and XG Boost
+Dataset : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Tech-Stack : Python 
