@@ -1,3 +1,9 @@
 **Credit Card Fraud Detection Model** on the European Credit Card Fraud Dataset using baseline model (Logistic regression) , Random Forest and XG Boost
 Dataset : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 Tech-Stack : Python 
+**Project Achievement Section**
+- Test Accuracy: 99.95%
+- Fraud Precision: 91%
+- Fraud Recall: 81%
+- Fraud F1-Score: 0.85
+- Macro F1-Score: 0.93
